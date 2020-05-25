@@ -42,6 +42,7 @@ extras_require = {
     'easyname': ['beautifulsoup4'],
     'localzone': ['localzone'],
     'gratisdns': ['beautifulsoup4'],
+    'hosteurope': ['selenium'],
     # Define dev/test dependencies
     'dev': [
         'pytest>=5.2 ; python_version >= "3.0"',
